@@ -8,7 +8,7 @@ function verificarTime() {
 
     
     if (respostaTime.toLowerCase() === "moreira") {
-      alert("Isso mesmo! O Athlético PR é o melhor time!");
+      alert("moreira");
       continuarPerguntando = false; // Sai do loop após a resposta correta
     } else {
       alert("Não é isso! Tente novamente.");
